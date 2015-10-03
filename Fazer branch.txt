@@ -1,0 +1,5 @@
+Criar um novo branch
+-git checkout -b branchname
+
+Retornar ao "master"
+-git checkout master
