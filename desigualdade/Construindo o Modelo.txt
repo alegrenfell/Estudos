@@ -1,0 +1,11 @@
+Premissas para o modelo
+
+1) Economic:
+    - percent of GDP from industry/services/agriculture
+    - education level of workforce
+    - household expenditures, government expenditures, etc.
+    - Valorização dos salários.
+
+2) Social:
+    - percent of GDP spent on education and health care
+    
